@@ -1,0 +1,5 @@
+{
+  "name": "Vegas Roam: Multiplayer Map Game",
+  "description": "A real-time multiplayer free-roam game set in Las Vegas using Google Maps. Explore the strip with others!",
+  "requestFramePermissions": ["geolocation"]
+}
